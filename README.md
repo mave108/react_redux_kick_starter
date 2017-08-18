@@ -6,12 +6,11 @@ boiler plate code of react and redux as a frontend and nodeJs, expressJs and mon
 
 git clone https://github.com/mave108/react_redux_kick_starter.git <br />
 cd to the project directory <br /><br />
-
 ```
-To run client<br />
-cd  /client<br />
-npm install<br />
-npm run start<br /><br />
+To run client <br />
+cd  /client <br />
+npm install <br />
+npm run start <br /><br />
 ```
 #### To run service need to start mongoDb server
 ```
