@@ -1,0 +1,10 @@
+client/node_modules
+server/node_modules
+client/bundle.js
+client/npm-debug.log
+server/npm-debug.log
+client/.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
