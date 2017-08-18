@@ -12,7 +12,7 @@ cd  /client
 npm install 
 npm run start
 ```
-#### To run service need to start mongoDb server
+#### To run service need to start mongoDb server first
 ```
 To run service 
 cd server
